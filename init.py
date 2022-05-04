@@ -30,6 +30,18 @@ class Gerente:
         
     def toString(self):
         return f'Nome  :',self.getNome()
+    
 class Funcionario:
     def __init__(self, nome,):
         self.nome = nome
+ class Livros:
+    def__init__(self, titulo, isbn, autores, edicao, editora, ano , assuntos )
+      self.titulo = titulo
+      self.isbn = isbn
+      self.autores = autores
+      self.edicao = edicao
+      self.editora = editora
+      self.ano = ano
+      self.assu
+    
+    
